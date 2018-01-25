@@ -73,7 +73,7 @@ public class HexToBinary {
                     break;
             }
             if(binary.equalsIgnoreCase("Invalid number")){
-                System.out.println("Number is invalid");
+                System.out.println("Input is invalid");
             }
             else {
                 System.out.printf(binary);
